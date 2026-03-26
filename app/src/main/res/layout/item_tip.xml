@@ -38,7 +38,6 @@
             android:textSize="18sp"
             android:textStyle="bold"
             android:layout_marginTop="4dp"
-            android:maxLines="2"
             android:textColor="@android:color/black" />
 
         <TextView
@@ -47,8 +46,6 @@
             android:layout_height="wrap_content"
             android:textSize="14sp"
             android:layout_marginTop="8dp"
-            android:maxLines="3"
-            android:ellipsize="end"
             android:lineSpacingExtra="2dp"
             android:textColor="@android:color/darker_gray" />
 
