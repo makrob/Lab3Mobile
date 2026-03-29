@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun setupRecyclerView() {
         recyclerView = findViewById(R.id.recyclerView)
-        val tips = TipsData.getTips()
+        val tips = TipsData.getTips(this)
         val adapter = TipAdapter(tips, currentLayoutManager)
 
         when (currentLayoutManager) {
