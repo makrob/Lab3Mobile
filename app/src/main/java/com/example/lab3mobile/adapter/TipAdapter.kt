@@ -12,7 +12,8 @@ import com.example.lab3mobile.model.Tip
 
 class TipAdapter(
     private val tips: List<Tip>,
-    private val layoutManagerType: Int
+    private val layoutManagerType: Int,
+    private val onItemClick: (Tip) -> Unit
 ) : RecyclerView.Adapter<TipAdapter.TipViewHolder>() {
 
     companion object {
@@ -55,6 +56,10 @@ class TipAdapter(
             }
         }
         holder.cardView.layoutParams = layoutParams
+
+        holder.itemView.setOnClickListener {
+            onItemClick(tip)
+        }
     }
 
     override fun getItemCount() = tips.size

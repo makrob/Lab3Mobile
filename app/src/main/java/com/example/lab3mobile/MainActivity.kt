@@ -1,6 +1,8 @@
 package com.example.lab3mobile
 
 import android.os.Bundle
+import android.content.Intent
+import java.io.Serializable
 import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
@@ -31,8 +33,11 @@ class MainActivity : AppCompatActivity() {
     private fun setupRecyclerView() {
         recyclerView = findViewById(R.id.recyclerView)
         val tips = TipsData.getTips(this)
-        val adapter = TipAdapter(tips, currentLayoutManager)
-
+        val adapter = TipAdapter(tips, currentLayoutManager) { selectedTip ->
+            val intent = Intent(this, TipDetailActivity::class.java)
+            intent.putExtra("TIP", selectedTip as java.io.Serializable)  // ← явное указание типа
+            startActivity(intent)
+        }
         when (currentLayoutManager) {
             TipAdapter.LAYOUT_MANAGER_VERTICAL -> {
                 recyclerView.layoutManager = LinearLayoutManager(this)

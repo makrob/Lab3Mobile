@@ -23,4 +23,20 @@
     <!-- Доп. аттрибуты item_tip-->
     <dimen name="card_сorner_radius">12dp</dimen>
     <dimen name="card_elevation">4dp</dimen>
+
+    <!-- Отступы item_tip_detail-->
+    <dimen name="item_detail_scroll_view_padding">16dp</dimen>
+    <dimen name="item_detail_button_close_margin">16dp</dimen>
+    <dimen name="item_detail_button_close_padding_horizontal">16dp</dimen>
+    <dimen name="item_detail_button_close_padding_vertical">8dp</dimen>
+    <dimen name="item_detail_title_margin_top">8dp</dimen>
+    <dimen name="item_detail_img_margin_top">16dp</dimen>
+    <dimen name="item_detail_desc_margin_top">16dp</dimen>
+
+    <!-- Размеры item_tip_detail-->
+    <dimen name="item_detail_day_text_size">18sp</dimen>
+    <dimen name="item_detail_title_text_size">24sp</dimen>
+    <dimen name="item_detail_img_height">200dp</dimen>
+    <dimen name="item_detail_desc_text_size">16sp</dimen>
+
 </resources>
