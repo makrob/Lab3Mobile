@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab3Mobile: Fitness tips for 30 days</string>
+    <string name="app_name">Lab3Mobile: Фитнес советы на 30 дней</string>
 
     <!-- Данные советов -->
     <string name="tip_1_title">Начните с малого</string>
