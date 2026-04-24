@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Отступы activity main-->
+    <dimen name="activity_main_padding">8dp</dimen>
+
+    <!-- Отступы item_tip-->
+    <dimen name="card_layout_margin">8dp</dimen>
+    <dimen name="card_layout_padding">12dp</dimen>
+    <dimen name="card_day_layout_margin_top">8dp</dimen>
+    <dimen name="card_layout_margin_start">12dp</dimen>
+    <dimen name="card_title_layout_margin_top">4dp</dimen>
+    <dimen name="card_desc_layout_margin_top">8dp</dimen>
+    <dimen name="card_desc_line_spacing_extra">2dp</dimen>
+    <dimen name="card_layout_width_small">0dp</dimen>
+
+    <!-- Размеры item_tip-->
+    <dimen name="card_img_height">150dp</dimen>
+    <dimen name="card_img_width">150dp</dimen>
+    <dimen name="card_day_text_size">12sp</dimen>
+    <dimen name="card_title_text_size">18sp</dimen>
+    <dimen name="card_desc_text_size">14sp</dimen>
+
+    <!-- Доп. аттрибуты item_tip-->
+    <dimen name="card_сorner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+
+    <!-- Отступы item_tip_detail-->
+    <dimen name="item_detail_scroll_view_padding">16dp</dimen>
+    <dimen name="item_detail_button_close_margin">16dp</dimen>
+    <dimen name="item_detail_button_close_padding_horizontal">16dp</dimen>
+    <dimen name="item_detail_button_close_padding_vertical">8dp</dimen>
+    <dimen name="item_detail_title_margin_top">8dp</dimen>
+    <dimen name="item_detail_img_margin_top">16dp</dimen>
+    <dimen name="item_detail_desc_margin_top">16dp</dimen>
+
+    <!-- Размеры item_tip_detail-->
+    <dimen name="item_detail_day_text_size">18sp</dimen>
+    <dimen name="item_detail_title_text_size">24sp</dimen>
+    <dimen name="item_detail_img_height">200dp</dimen>
+    <dimen name="item_detail_desc_text_size">16sp</dimen>
+
+</resources>

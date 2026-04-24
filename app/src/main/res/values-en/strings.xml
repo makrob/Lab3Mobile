@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Lab3Mobile: 30-Day Fitness Tips</string>
+    <string name="app_detail_item_close">Close</string>
+
+    <!-- Данные советов -->
+    <string name="tip_1_title">Start small</string>
+    <string name="tip_1_description">Start with 15-20 minutes of light activity. The main goal of the first month is not to burn out, but to develop a habit.</string>
+
+    <string name="tip_2_title">Define the "Why"</string>
+    <string name="tip_2_description">Sit down and write down on a piece of paper why you want to get into fitness. The goal should be emotional: "I want to play with my children without feeling breathless" or "I want to feel light in my body by the time I go on vacation."</string>
+
+    <string name="tip_3_title">Turn sports into a routine</string>
+    <string name="tip_3_description">Don\'t wait for the "right moment" - there won\'t be one. Find a time that works best for you (morning or evening) and try not to change it.</string>
+
+    <string name="tip_4_title">Master the warm-up</string>
+    <string name="tip_4_description">Never start exercising on cold muscles. Treat warm-up not as a formality, but as an essential part of your workout.</string>
+
+    <string name="tip_5_title">Focus on technique, not weight</string>
+    <string name="tip_5_description">Bad technique is not only a lack of results, but also a guarantee of injuries. If you are not confident in a movement, record yourself or consult a trainer.</string>
+
+    <string name="tip_6_title">Learn to listen to the body</string>
+    <string name="tip_6_description">In fitness, the rule is "Don't harm yourself." If you feel discomfort, modify the exercise or give yourself an extra day of rest.</string>
+
+    <string name="tip_7_title">Turn sports into a routine</string>
+    <string name="tip_7_description">One full day off a week (or even two) won\'t break your progress, but it will strengthen it. On your day off, go for a walk, do some stretching, or just sleep.</string>
+
+    <string name="tip_8_title">Drink water</string>
+    <string name="tip_8_description">Drink a glass of water 1-2 hours before your workout and take a few sips between sets. Make sure to replace your fluid loss after your workout.</string>
+
+    <string name="tip_9_title">Don\'t believe in "magic pills"</string>
+    <string name="tip_9_description">Don\'t waste money on miracle products. Invest in high-quality shoes, a mat, or consult with a knowledgeable professional.</string>
+
+    <string name="tip_10_title">Make a warm-up mandatory</string>
+    <string name="tip_10_description">Let\'s repeat the basics: warm-up before exercise and cool-down (stretching) after. Cool-down helps reduce cortisol levels after exercise and relieve muscle tension.</string>
+
+    <string name="tip_11_title">Food is fuel</string>
+    <string name="tip_11_description">Optimal: complex carbohydrates 1.5-2 hours before the session. After training, the body needs protein to restore muscles.</string>
+
+    <string name="tip_12_title">Goodbye to the omissions</string>
+    <string name="tip_12_description">If you fall behind schedule, just get back to it the next day. Don\'t try to "owe" a double duty - this leads to overtraining and injuries.</string>
+
+    <string name="tip_13_title">Don\'t compare yourself to others</string>
+    <string name="tip_13_description">There will always be someone in the gym who lifts more or looks better. Focus on your personal progress: today I did one more rep than last time.</string>
+
+    <string name="tip_14_title">Enable functional movements</string>
+    <string name="tip_14_description">Squats, lunges, push-ups, rows, and planks should be the base. They mimic natural human movements and engage multiple muscle groups at once.</string>
+
+    <string name="tip_15_title">Buy comfortable clothes</string>
+    <string name="tip_15_description">You don\'t need a top brand, but you do need a functional uniform. Your clothes shouldn\'t restrict your movements, and your shoes should be suitable for the type of activity.</string>
+
+    <string name="tip_16_title">Watch your sleep</string>
+    <string name="tip_16_description">Getting enough sleep is just as important as going to the gym. Without sleep, your efforts in the gym are half as effective.</string>
+
+    <string name="tip_17_title">Use the principle of progression</string>
+    <string name="tip_17_description">In order for the body to change, the load needs to be increased. But it needs to be done smoothly. This will protect you from plateau (stagnation) and injury.</string>
+
+    <string name="tip_18_title">Please yourself</string>
+    <string name="tip_18_description">Come up with a reward system. A reward reinforces a positive attitude towards sports.</string>
+
+    <string name="tip_19_title">Don\'t be afraid of force</string>
+    <string name="tip_19_description">Strength training speeds up metabolism, strengthens bones, and gives you a "toned" look, not a "flabby" one.</string>
+
+    <string name="tip_20_title">Increase your energy consumption</string>
+    <string name="tip_20_description">Sometimes, increasing your daily activity (10,000 steps) can have a greater effect on fat burning than an exhausting one-hour cardio workout.</string>
+
+    <string name="tip_21_title">Keep a training diary</string>
+    <string name="tip_21_description">Record your exercises, weights, repetitions, and how you feel. This will allow you to objectively see your progress.</string>
+
+    <string name="tip_22_title">Don\'t get hung up on cardio</string>
+    <string name="tip_22_description">Combine cardio with strength training. Strength training boosts your metabolism, causing your body to burn calories even after you leave the gym.</string>
+
+    <string name="tip_23_title">Work on mobility</string>
+    <string name="tip_23_description">Add 10 minutes of hip and thoracic mobility exercises. This will improve your squat technique and reduce lower back pain.</string>
+
+    <string name="tip_24_title">Experiment</string>
+    <string name="tip_24_description">The body adapts to the same type of activity, and the brain gets tired of routine. Changing activities is a "muscle shock" that often triggers a new round of physical changes.</string>
+
+    <string name="tip_25_title">Control your diet, don\'t starve</string>
+    <string name="tip_25_description">Exercise burns far fewer calories than it seems. The main calorie deficit is created in the kitchen. Eat enough protein and fiber to avoid cravings.</string>
+
+    <string name="tip_26_title">Breathe properly</string>
+    <string name="tip_26_description">Breathing holds during exercise increases intracranial pressure and harms the heart. Monitor the rhythm, it helps to control the technique.</string>
+
+    <string name="tip_27_title">Hire a coach (at least for a month)</string>
+    <string name="tip_27_description">Even experienced athletes turn to outside coaches. An outside perspective can help you identify and correct technical errors that you may not be aware of.</string>
+
+    <string name="tip_28_title">Focus on the quality of life</string>
+    <string name="tip_28_description">Getting up from a chair without using your hands, carrying heavy bags without back pain, and running after a bus. Fitness is not just about your appearance; it\'s about your freedom and independence.</string>
+
+    <string name="tip_29_title">Accept your body now</string>
+    <string name="tip_29_description">Train out of love for your body, wanting to make it stronger, not out of hatred for how it looks. This is the most powerful source of energy.</string>
+
+    <string name="tip_30_title">Summarize the results and set a new goal.</string>
+    <string name="tip_30_description">Congratulate yourself on the stage you have passed. Now that the habit has been formed, set a new specific goal. The journey is just beginning, and it is infinitely interesting.</string>
+</resources>
